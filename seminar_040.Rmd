@@ -13,7 +13,7 @@ lang: ru-RU
 editor_options:
   chunk_output_type: console
 ---
-
+Привет2
 
 Шаманское заклинание для настройки глобальных опций отчёта:
 ```{r setup, include=FALSE}
